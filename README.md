@@ -3,6 +3,7 @@
 
 # Statistics & ML
 - [ ] Book - Statistics for Experimenters: Design, Innovation and Discovery
+- [ ] Book - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [X] Book - Introduction to recommender systems handbook
 - [X] Book - [Deep Learning](https://www.deeplearningbook.org/)
 
