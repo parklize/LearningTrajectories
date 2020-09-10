@@ -16,7 +16,7 @@
 
 # Tools
 ### Probabilistic Programming
-- [] [Pyro](http://pyro.ai/)
+- [ ] [Pyro](http://pyro.ai/)
 
 ### Timeseries
-- [] [GluonTS](https://gluon-ts.mxnet.io/)
+- [ ] [GluonTS](https://gluon-ts.mxnet.io/)
