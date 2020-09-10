@@ -1,6 +1,6 @@
 # Computational Social Science
-- [ ] Book - [Bit by Bit](https://www.bitbybitbook.com/en/1st-ed/preface/)
-- [X] Book - Networked, Lee Rainie and Barry Wellman
+- [ ] Book - [*Bit by Bit*](https://www.bitbybitbook.com/en/1st-ed/preface/)
+- [X] Book - *Networked*, Lee Rainie and Barry Wellman
 - [X] Book - Networks, Crowds, and Markets, David Easley and Jon Kleinberg
 
 # Statistics & ML
