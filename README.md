@@ -24,8 +24,10 @@
 ### Probabilistic Programming
 - [ ] [Pyro](http://pyro.ai/)
 
-</br>
-
 ### Timeseries
 - [ ] [GluonTS](https://gluon-ts.mxnet.io/)
-- [ ] [statsmodels](https://www.statsmodels.org/stable/index.html)
+- [X] [statsmodels](https://www.statsmodels.org/stable/index.html)
+
+### ML & DL
+- [X] sklearn
+- [X] [DeepCTR](https://deepctr-doc.readthedocs.io/en/latest/)
