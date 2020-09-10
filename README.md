@@ -18,8 +18,9 @@
 # Others
 - [X] Course - [*Missing Semester in CS*](https://missing.csail.mit.edu/)
 
-# Tools
 </br>
+
+# Tools
 ### Probabilistic Programming
 - [ ] [Pyro](http://pyro.ai/)
 
