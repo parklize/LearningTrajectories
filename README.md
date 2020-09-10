@@ -3,6 +3,8 @@
 - [X] Book - *Networked*, Lee Rainie and Barry Wellman
 - [X] Book - *Networks, Crowds, and Markets*, David Easley and Jon Kleinberg
 
+</br>
+
 # Statistics & ML
 - [ ] Book - *Statistics for Experimenters: Design, Innovation and Discovery*
 - [ ] Book - [*Forecasting: Principles and Practice*](https://otexts.com/fpp2/)
@@ -11,12 +13,17 @@
 - [X] Book - [*Deep Learning*](https://www.deeplearningbook.org/)
 - [X] Book - *Machine Learning*, Tom Mitchell
 
+</br>
+
 # Others
 - [X] Course - [*Missing Semester in CS*](https://missing.csail.mit.edu/)
 
 # Tools
+</br>
 ### Probabilistic Programming
 - [ ] [Pyro](http://pyro.ai/)
+
+</br>
 
 ### Timeseries
 - [ ] [GluonTS](https://gluon-ts.mxnet.io/)
