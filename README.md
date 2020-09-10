@@ -13,3 +13,10 @@
 
 # Others
 - [X] Course - [*Missing Semester in CS*](https://missing.csail.mit.edu/)
+
+# Tools
+### Probabilistic Programming
+- [] [Pyro](http://pyro.ai/)
+
+### Timeseries
+- [] [GluonTS](https://gluon-ts.mxnet.io/)
