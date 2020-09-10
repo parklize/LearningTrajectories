@@ -20,3 +20,4 @@
 
 ### Timeseries
 - [ ] [GluonTS](https://gluon-ts.mxnet.io/)
+- [ ] [statsmodels](https://www.statsmodels.org/stable/index.html)
