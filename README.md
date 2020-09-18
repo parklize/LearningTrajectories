@@ -2,6 +2,7 @@
 - [ ] Book - [*Bit by Bit*](https://www.bitbybitbook.com/en/1st-ed/preface/)
 - [X] Book - *Networked*, Lee Rainie and Barry Wellman
 - [X] Book - *Networks, Crowds, and Markets*, David Easley and Jon Kleinberg
+- [ ] Course - [*Open source teaching and learning resources for computational social science*](https://sicss.io/curriculum)
 
 </br>
 
