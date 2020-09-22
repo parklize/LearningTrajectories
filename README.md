@@ -1,8 +1,8 @@
 # Computational Social Science
-- [ ] Book - [*Bit by Bit*](https://www.bitbybitbook.com/en/1st-ed/preface/)
+- [X] Book - [*Bit by Bit*](https://www.bitbybitbook.com/en/1st-ed/preface/)
 - [X] Book - *Networked*, Lee Rainie and Barry Wellman
 - [X] Book - *Networks, Crowds, and Markets*, David Easley and Jon Kleinberg
-- [ ] Course - [*Open source teaching and learning resources for computational social science*](https://sicss.io/curriculum)
+- [X] Course - [*Open source teaching and learning resources for computational social science*](https://sicss.io/curriculum)
 
 </br>
 
@@ -33,3 +33,7 @@
 - [X] sklearn
 - [X] [DeepCTR](https://deepctr-doc.readthedocs.io/en/latest/)
 - [X] Tensorflow
+
+### Graph
+- [ ] [Networkx](https://networkx.github.io/)
+- [ ] [Wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/)
