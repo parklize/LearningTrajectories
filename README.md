@@ -33,6 +33,7 @@
 - [X] sklearn
 - [X] [DeepCTR](https://deepctr-doc.readthedocs.io/en/latest/)
 - [X] Tensorflow
+- [ ] [TensorflowRecommender](https://www.tensorflow.org/recommenders)
 
 ### Graph
 - [ ] [Networkx](https://networkx.github.io/)
