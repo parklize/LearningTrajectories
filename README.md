@@ -39,3 +39,5 @@
 ### Graph
 - [ ] [Networkx](https://networkx.github.io/)
 - [ ] [Wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/)
+- [ ] [GraphSage](http://snap.stanford.edu/graphsage/)
+- [ ] [TGN](https://github.com/twitter-research/tgn)
