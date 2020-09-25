@@ -28,6 +28,7 @@
 ### Timeseries
 - [ ] [GluonTS](https://gluon-ts.mxnet.io/)
 - [X] [statsmodels](https://www.statsmodels.org/stable/index.html)
+- [ ] [PyTorch Forecasting](https://towardsdatascience.com/introducing-pytorch-forecasting-64de99b9ef46)
 
 ### ML & DL
 - [X] sklearn
