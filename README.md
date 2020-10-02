@@ -10,6 +10,7 @@
 - [ ] Book - *Statistics for Experimenters: Design, Innovation and Discovery*
 - [ ] Book - [*Forecasting: Principles and Practice*](https://otexts.com/fpp2/)
 - [ ] Book - *Pattern Recognition and Machine Learnning*, Christopher M. Bishop
+- [ ] Book - [*Math for Machine Learning*](https://mml-book.github.io/book/mml-book.pdf)
 - [X] Book - *Introduction to recommender systems handbook*
 - [X] Book - [*Deep Learning*](https://www.deeplearningbook.org/)
 - [X] Book - *Machine Learning*, Tom Mitchell
