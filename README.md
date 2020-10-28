@@ -45,3 +45,6 @@
 - [ ] [Wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/)
 - [ ] [GraphSage](http://snap.stanford.edu/graphsage/)
 - [ ] [TGN](https://github.com/twitter-research/tgn)
+
+### NLP
+- [ ] [BLINK](https://github.com/facebookresearch/BLINK) ```wikifiy```
