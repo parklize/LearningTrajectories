@@ -48,3 +48,5 @@
 
 ### NLP
 - [ ] [BLINK](https://github.com/facebookresearch/BLINK) ```wikifiy```
+- [ ] [jieba](https://github.com/fxsjy/jieba)
+- [X] [gensim](https://radimrehurek.com/gensim/)
