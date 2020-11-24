@@ -13,6 +13,7 @@
 - [ ] Book - [*Math for Machine Learning*](https://mml-book.github.io/book/mml-book.pdf)
 - [ ] Book - [*Graph Representation Learning*](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
 - [ ] Course - [*Deep Learning (with PyTorch)*](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+- [ ] Course - [*Mathematics for Machine Learning*](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [X] Book - *Introduction to recommender systems handbook*
 - [X] Book - [*Deep Learning*](https://www.deeplearningbook.org/)
 - [X] Book - *Machine Learning*, Tom Mitchell
