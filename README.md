@@ -41,6 +41,7 @@
 - [X] [DeepCTR](https://deepctr-doc.readthedocs.io/en/latest/)
 - [X] Tensorflow
 - [ ] [TensorflowRecommender](https://www.tensorflow.org/recommenders)
+- [ ] [HuggingFace](https://huggingface.co/transformers/)
 
 ### Graph
 - [ ] [Networkx](https://networkx.github.io/)
