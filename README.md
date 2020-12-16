@@ -55,3 +55,7 @@
 - [ ] [BLINK](https://github.com/facebookresearch/BLINK) ```wikifiy```
 - [ ] [jieba](https://github.com/fxsjy/jieba)
 - [X] [gensim](https://radimrehurek.com/gensim/)
+
+### Task-specific
+#### Classification
+- [ ] [eXtreme Multi-label Text Classification](https://github.com/OctoberChang/X-Transformer)
