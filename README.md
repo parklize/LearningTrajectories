@@ -42,7 +42,7 @@
 - [X] sklearn
 - [X] [DeepCTR](https://deepctr-doc.readthedocs.io/en/latest/)
 - [X] Tensorflow
-- [ ] [TensorflowRecommender](https://www.tensorflow.org/recommenders)
+- [ ] [TensorflowRecommender](https://www.tensorflow.org/recommenders) ```recsys```
 - [ ] [HuggingFace](https://huggingface.co/transformers/)
 
 ### Graph
@@ -53,6 +53,7 @@
 
 ### NLP
 - [ ] [BLINK](https://github.com/facebookresearch/BLINK) ```wikifiy```
+- [ ] [FEL](https://github.com/yahoo/FEL) ```wikify```
 - [ ] [jieba](https://github.com/fxsjy/jieba)
 - [X] [gensim](https://radimrehurek.com/gensim/)
 
