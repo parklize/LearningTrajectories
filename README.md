@@ -24,6 +24,7 @@
 
 # Others
 - [X] Course - [*Missing Semester in CS*](https://missing.csail.mit.edu/)
+- [ ] Book - [*Foundations of Computer Science*](http://infolab.stanford.edu/~ullman/focs.html)
 
 </br>
 
