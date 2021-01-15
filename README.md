@@ -34,6 +34,7 @@
 - [ ] [Edward](http://edwardlib.org/tutorials/)
 - [ ] [Pyro](http://pyro.ai/)
 - [ ] [PyMC](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb)
+- [ ] [SPMF](http://www.philippe-fournier-viger.com/spmf)```pattern mining```
 
 ### Timeseries
 - [ ] [GluonTS](https://gluon-ts.mxnet.io/)
