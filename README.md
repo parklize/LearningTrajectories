@@ -16,6 +16,7 @@
 - [ ] Book - [*Graph Representation Learning*](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
 - [ ] Course - [*Deep Learning (with PyTorch)*](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 - [ ] Course - [*Mathematics for Machine Learning*](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [ ] Course - [*Statistics for Applications*](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)
 - [X] Book - *Introduction to recommender systems handbook*
 - [X] Book - [*Deep Learning*](https://www.deeplearningbook.org/)
 - [X] Book - *Machine Learning*, Tom Mitchell
