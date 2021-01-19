@@ -17,8 +17,8 @@
 - [ ] Course - [*Deep Learning (with PyTorch)*](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 - [ ] Course - [*Mathematics for Machine Learning*](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [ ] Course - [*Statistics for Applications*](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)
-- [ ] Course - [*Statistical Methods for Data Science (Python)*](https://gu.instructure.com/courses/11025)
-- [ ] Course - [*STAT3202@OSU*](https://daviddalpiaz.github.io/stat3202-au18/)
+- [ ] Course - [*Statistical Methods for Data Science*](https://gu.instructure.com/courses/11025)```Python```
+- [ ] Course - [*STAT3202@OSU*](https://daviddalpiaz.github.io/stat3202-au18/)```R```
 - [X] Book - *Introduction to recommender systems handbook*
 - [X] Book - [*Deep Learning*](https://www.deeplearningbook.org/)
 - [X] Book - *Machine Learning*, Tom Mitchell
