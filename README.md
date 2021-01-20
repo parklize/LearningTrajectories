@@ -67,3 +67,5 @@
 - [ ] [eXtreme Multi-label Text Classification](https://github.com/OctoberChang/X-Transformer)
 #### Survival Analysis
 - [ ] [lifelines](https://lifelines.readthedocs.io/en/latest/index.html)
+#### Image-Text (Image captioning)
+- [ ] [Oscar](https://github.com/microsoft/Oscar)
