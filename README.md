@@ -49,13 +49,14 @@
 - [X] Tensorflow
 - [ ] [TensorflowRecommender](https://www.tensorflow.org/recommenders) ```recsys```
 - [ ] [HuggingFace](https://huggingface.co/transformers/)
-- [ ] [SPMF](http://www.philippe-fournier-viger.com/spmf)```pattern mining```
+- [ ] [SPMF](http://www.philippe-fournier-viger.com/spmf) ```pattern mining```
 
 ### Graph
 - [ ] [Networkx](https://networkx.github.io/)
 - [ ] [Wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/)
 - [ ] [GraphSage](http://snap.stanford.edu/graphsage/)
 - [ ] [TGN](https://github.com/twitter-research/tgn)
+- [ ] [StellarGraph](https://stellargraph.readthedocs.io/en/stable/README.html)
 
 ### NLP
 - [ ] [BLINK](https://github.com/facebookresearch/BLINK) ```wikifiy```
