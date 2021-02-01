@@ -57,12 +57,16 @@
 - [ ] [GraphSage](http://snap.stanford.edu/graphsage/)
 - [ ] [TGN](https://github.com/twitter-research/tgn)
 - [ ] [StellarGraph](https://stellargraph.readthedocs.io/en/stable/README.html)
+- [ ] [DGL](https://www.dgl.ai/)
 
 ### NLP
 - [ ] [BLINK](https://github.com/facebookresearch/BLINK) ```wikifiy```
 - [ ] [FEL](https://github.com/yahoo/FEL) ```wikify```
 - [ ] [jieba](https://github.com/fxsjy/jieba)
 - [X] [gensim](https://radimrehurek.com/gensim/)
+
+### Data
+- [ ] [vaex](https://vaex.io/docs/index.html)
 
 ### Task-specific
 #### Classification
