@@ -59,6 +59,7 @@
 - [ ] [TGN](https://github.com/twitter-research/tgn)
 - [ ] [StellarGraph](https://stellargraph.readthedocs.io/en/stable/README.html)
 - [ ] [DGL](https://www.dgl.ai/)
+- [ ] [OpenHINE](https://github.com/BUPT-GAMMA/OpenHINE) ```HIN```
 
 ### NLP
 - [ ] [BLINK](https://github.com/facebookresearch/BLINK) ```wikifiy```
