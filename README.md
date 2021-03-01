@@ -67,8 +67,9 @@
 - [ ] [jieba](https://github.com/fxsjy/jieba)
 - [X] [gensim](https://radimrehurek.com/gensim/)
 
-### Data
+### Data/Vis
 - [ ] [vaex](https://vaex.io/docs/index.html)
+- [ ] [sweetviz](https://pypi.org/project/sweetviz/)
 
 ### Task-specific
 #### Classification
