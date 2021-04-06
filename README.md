@@ -51,6 +51,7 @@
 - [ ] [TensorflowRecommender](https://www.tensorflow.org/recommenders) ```recsys```
 - [ ] [HuggingFace](https://huggingface.co/transformers/)
 - [ ] [SPMF](http://www.philippe-fournier-viger.com/spmf) ```pattern mining```
+- [ ] [Dodrio](https://poloclub.github.io/dodrio/) ```transformer visualization```
 
 ### Graph
 - [ ] [Networkx](https://networkx.github.io/)
