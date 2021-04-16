@@ -52,6 +52,7 @@
 - [ ] [HuggingFace](https://huggingface.co/transformers/)
 - [ ] [SPMF](http://www.philippe-fournier-viger.com/spmf) ```pattern mining```
 - [ ] [Dodrio](https://poloclub.github.io/dodrio/) ```transformer visualization```
+- [ ] [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html) ```GBM```
 
 ### Graph
 - [ ] [Networkx](https://networkx.github.io/)
