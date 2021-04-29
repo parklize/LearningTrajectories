@@ -69,9 +69,10 @@
 - [ ] [jieba](https://github.com/fxsjy/jieba)
 - [X] [gensim](https://radimrehurek.com/gensim/)
 
-### Data/Vis
+### Data/Vis/PM
 - [ ] [vaex](https://vaex.io/docs/index.html)
 - [ ] [sweetviz](https://pypi.org/project/sweetviz/)
+- [ ] [cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-science)
 
 ### Task-specific
 #### Classification
