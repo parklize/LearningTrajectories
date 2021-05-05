@@ -73,6 +73,7 @@
 - [ ] [vaex](https://vaex.io/docs/index.html)
 - [ ] [sweetviz](https://pypi.org/project/sweetviz/)
 - [ ] [cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-science)
+- [ ] [Category Encoders](https://contrib.scikit-learn.org/category_encoders/index.html#)
 
 ### Task-specific
 #### Classification
