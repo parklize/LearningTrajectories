@@ -2,6 +2,7 @@
 - [X] Book - [*Bit by Bit*](https://www.bitbybitbook.com/en/1st-ed/preface/)
 - [X] Book - *Networked*, Lee Rainie and Barry Wellman
 - [X] Book - *Networks, Crowds, and Markets*, David Easley and Jon Kleinberg
+- [ ] Book - [*Handbook of Regression Modeling in People Analytics*](http://peopleanalytics-regression-book.org/)
 - [ ] Book - [*Text Analysis in Python for Social Scientists*](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3)
 - [X] Course - [*Open source teaching and learning resources for computational social science*](https://sicss.io/curriculum)
 
