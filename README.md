@@ -15,6 +15,7 @@
 - [ ] Book - *Pattern Recognition and Machine Learnning*, Christopher M. Bishop
 - [ ] Book - [*Math for Machine Learning*](https://mml-book.github.io/book/mml-book.pdf)
 - [ ] Book - [*Graph Representation Learning*](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
+- [ ] Course - [*CS228@Stanford-Probabilistic Graphical Models*](https://ermongroup.github.io/cs228-notes/)
 - [ ] Course - [*Deep Learning (with PyTorch)*](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 - [ ] Course - [*Mathematics for Machine Learning*](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [ ] Course - [*Statistics for Applications*](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)
