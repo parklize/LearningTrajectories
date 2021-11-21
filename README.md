@@ -33,6 +33,7 @@
 # Others
 - [X] Course - [*Missing Semester in CS*](https://missing.csail.mit.edu/)
 - [ ] Book - [*Foundations of Computer Science*](http://infolab.stanford.edu/~ullman/focs.html)
+- [ ] Book - [*Scientific Visualization Book*](https://github.com/rougier/scientific-visualization-book/blob/master/pdf/book.pdf?fbclid=IwAR0y1_4zqxZFfP_qxXxVOS67ZJxDDtOjdEodIUKU5hYFxc7AiExgSO7e1kM)
 
 </br>
 
