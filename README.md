@@ -28,6 +28,7 @@
 - [X] Book - *Introduction to recommender systems handbook*
 - [X] Book - [*Deep Learning*](https://www.deeplearningbook.org/)
 - [X] Book - *Machine Learning*, Tom Mitchell
+- [ ] Course - [*Applied ML*](https://applyingml.com/)
 
 </br>
 
