@@ -30,6 +30,7 @@
 - [X] Book - *Machine Learning*, Tom Mitchell
 - [ ] Course - [*Applied ML*](https://applyingml.com/)
 - [ ] Book - [*Bayesian Modeling and Computation in Python*](https://bayesiancomputationbook.com/welcome.html)
+- [ ] Book - [*Introduction to Probability for Data Science*](https://probability4datascience.com/)
 
 </br>
 
