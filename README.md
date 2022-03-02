@@ -95,3 +95,4 @@
 - [ ] [Oscar](https://github.com/microsoft/Oscar)
 #### Web Crawling
 - [ ] [Puppeteer](https://pptr.dev/) ```high-level API to control Chrome or Chromium```
+- [ ] [BeautifulSoap](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) ```pulling data out of HTML and XML files```
