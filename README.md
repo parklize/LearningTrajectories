@@ -93,3 +93,5 @@
 - [ ] [scikit-survival](scikit-survival)
 #### Image-Text (Image captioning)
 - [ ] [Oscar](https://github.com/microsoft/Oscar)
+#### Web Crawling
+- [ ] [Puppeteer](https://pptr.dev/) ```high-level API to control Chrome or Chromium```
