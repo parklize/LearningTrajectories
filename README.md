@@ -5,6 +5,7 @@
 - [X] Book - [*Handbook of Regression Modeling in People Analytics*](http://peopleanalytics-regression-book.org/)
 - [ ] Book - [*Text Analysis in Python for Social Scientists*](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3)
 - [ ] Book - [*Causal Inference: What If*](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2021/03/ciwhatif_hernanrobins_30mar21.pdf)
+- [ ] Course - [*Program Evaluation for Public Service*](https://evalf20.classes.andrewheiss.com/)
 - [X] Course - [*Open source teaching and learning resources for computational social science*](https://sicss.io/curriculum)
 
 
