@@ -86,9 +86,6 @@
 - [ ] [cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-science)
 - [ ] [Category Encoders](https://contrib.scikit-learn.org/category_encoders/index.html#)
 
-### Presentation
-- https://mycolor.space/
-
 ### Task-specific
 #### Classification
 - [ ] [eXtreme Multi-label Text Classification](https://github.com/OctoberChang/X-Transformer)
@@ -101,3 +98,7 @@
 - [ ] [Puppeteer](https://pptr.dev/) ```high-level API to control Chrome or Chromium```
 - [ ] [BeautifulSoap](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) ```pulling data out of HTML and XML files```
 - [ ] [difflib](https://docs.python.org/3/library/difflib.html) ```comparing diff in sequences or files such as HTML```
+
+### Presentation
+- https://mycolor.space/ ```color combination```
+- https://app.diagrams.net/ ```draw diagram/figure```
