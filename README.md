@@ -86,6 +86,9 @@
 - [ ] [cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-science)
 - [ ] [Category Encoders](https://contrib.scikit-learn.org/category_encoders/index.html#)
 
+### Presentation
+- https://mycolor.space/
+
 ### Task-specific
 #### Classification
 - [ ] [eXtreme Multi-label Text Classification](https://github.com/OctoberChang/X-Transformer)
