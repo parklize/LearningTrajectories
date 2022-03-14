@@ -32,6 +32,7 @@
 - [ ] Course - [*Applied ML*](https://applyingml.com/)
 - [ ] Book - [*Bayesian Modeling and Computation in Python*](https://bayesiancomputationbook.com/welcome.html)
 - [ ] Book - [*Introduction to Probability for Data Science*](https://probability4datascience.com/)
+- [ ] Book - [*Statistical Rethinking A Bayesian Course with Examples in R and Stan*](https://xcelab.net/rm/statistical-rethinking/)
 
 </br>
 
