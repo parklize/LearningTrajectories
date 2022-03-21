@@ -39,9 +39,12 @@
 
 # Others
 - [X] Course - [*Missing Semester in CS*](https://missing.csail.mit.edu/)
+- [X] Book - [*Data Science at Command Line*](https://datascienceatthecommandline.com/2e/chapter-1-introduction.html)
+- [ ] Book - [*Data Science Handbook*]()
 - [ ] Book - [*Foundations of Computer Science*](http://infolab.stanford.edu/~ullman/focs.html)
 - [ ] Book - [*Scientific Visualization Book*](https://github.com/rougier/scientific-visualization-book/blob/master/pdf/book.pdf?fbclid=IwAR0y1_4zqxZFfP_qxXxVOS67ZJxDDtOjdEodIUKU5hYFxc7AiExgSO7e1kM)
 - [ ] Resource [*Free CS Education*](https://github.com/Developer-Y/cs-video-courses)
+
 
 </br>
 
