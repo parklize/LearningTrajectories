@@ -30,6 +30,7 @@
 - [X] Book - *Introduction to recommender systems handbook*
 - [X] Book - [*Deep Learning*](https://www.deeplearningbook.org/)
 - [X] Book - *Machine Learning*, Tom Mitchell
+- [ ] Book - [*Dive into Deep Learning*](http://d2l.ai/index.html)
 - [ ] Course - [*Applied ML*](https://applyingml.com/)
 - [ ] Course - [*Intro to Deep Learning*](http://introtodeeplearning.com/)
 - [ ] Course - [*Open Data Science Masters*](http://datasciencemasters.org/)
