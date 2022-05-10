@@ -66,7 +66,7 @@
 ### ML & DL
 - [X] sklearn
 - [X] [DeepCTR](https://deepctr-doc.readthedocs.io/en/latest/)
-- [ ] [DeepTables](https://deeptables.readthedocs.io/en/latest/index.html)
+- [ ] [DeepTables](https://deeptables.readthedocs.io/en/latest/index.html) ```deep learning for tabular data```
 - [X] Tensorflow
 - [ ] [TensorflowRecommender](https://www.tensorflow.org/recommenders) ```recsys```
 - [ ] [HuggingFace](https://huggingface.co/transformers/)
