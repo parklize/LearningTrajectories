@@ -73,6 +73,7 @@
 - [ ] [SPMF](http://www.philippe-fournier-viger.com/spmf) ```pattern mining```
 - [ ] [Dodrio](https://poloclub.github.io/dodrio/) ```transformer visualization```
 - [ ] [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html) ```GBM```
+- [ ] [Spark](https://spark.apache.org/mllib/)
 
 ### Graph
 - [ ] [Networkx](https://networkx.github.io/)
