@@ -46,6 +46,7 @@
 - [ ] Book - [*The Data Science Handbook*]()
 - [ ] Book - [*Foundations of Computer Science*](http://infolab.stanford.edu/~ullman/focs.html)
 - [ ] Book - [*Scientific Visualization Book*](https://github.com/rougier/scientific-visualization-book/blob/master/pdf/book.pdf?fbclid=IwAR0y1_4zqxZFfP_qxXxVOS67ZJxDDtOjdEodIUKU5hYFxc7AiExgSO7e1kM)
+- [ ] Course - [*Mining Massive Dataset*](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets)
 - [ ] Resource [*Free CS Education*](https://github.com/Developer-Y/cs-video-courses)
 
 
