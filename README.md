@@ -17,6 +17,7 @@
 - [ ] Book - [*Forecasting: Principles and Practice*](https://otexts.com/fpp2/)
 - [ ] Book - *Pattern Recognition and Machine Learnning*, Christopher M. Bishop
 - [ ] Book - [*Math for Machine Learning*](https://mml-book.github.io/book/mml-book.pdf)
+- [ ] Course - [*Mathematical Foundations of Machine Learning(https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)*]
 - [ ] Book - [*Graph Representation Learning*](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
 - [ ] Course - [*CS228@Stanford-Probabilistic Graphical Models*](https://ermongroup.github.io/cs228-notes/)
 - [ ] Course - [*10708@CMU-Probabilistic Graphical Models*](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
