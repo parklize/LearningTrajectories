@@ -21,7 +21,7 @@
 - [ ] Course - [*Mathematical Foundations of Machine Learning*](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
 - [ ] Course - [*CS228@Stanford-Probabilistic Graphical Models*](https://ermongroup.github.io/cs228-notes/)
 - [ ] Course - [*10708@CMU-Probabilistic Graphical Models*](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
-- [ ] Course - [*Neural Networks*](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [ ] Course - [*Neural Networks*](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH), Hugo Larochelle
 - [ ] Course - [*Deep Learning (with PyTorch)*](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 - [ ] Course - [*Mathematics for Machine Learning*](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [ ] Course - [*Statistics for Applications*](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)
