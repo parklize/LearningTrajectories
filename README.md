@@ -77,6 +77,7 @@
 - [ ] [Dodrio](https://poloclub.github.io/dodrio/) ```transformer visualization```
 - [ ] [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html) ```GBM```
 - [ ] [Spark](https://spark.apache.org/mllib/)
+- [ ] [Faiss](https://github.com/facebookresearch/faiss) ```similarity search```, ```clustering```
 
 ### Graph
 - [ ] [Networkx](https://networkx.github.io/)
